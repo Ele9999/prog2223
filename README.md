@@ -1,5 +1,5 @@
 # prog2223
-Respository di prova per il corso di programmazione 22-23 - I.S.I.
+Respository di prova per il corso di Programmazione a.a.22-23 - I.S.I.
 
 ## Obiettivo
 
