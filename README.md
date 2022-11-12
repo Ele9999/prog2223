@@ -8,3 +8,5 @@ Mostrare l'uso remoto di git sul portale github
 ## Risultato
 
 Tutti sappiamo usare le funzionalità clone, push e pull
+
+Aggiungo una nuova riga al File
