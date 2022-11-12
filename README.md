@@ -9,6 +9,6 @@ Mostrare l'uso remoto di git sul portale github
 
 Tutti sappiamo usare le funzionalità clone, push e pull
 
-##Commenti
+## Commenti
 
 Qui verranno inseriti i commenti
